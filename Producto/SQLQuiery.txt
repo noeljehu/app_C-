@@ -1,0 +1,14 @@
+
+CREATE DATABASE app;
+GO
+
+USE app;
+GO
+
+CREATE TABLE Producto1 (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre VARCHAR(100) NOT NULL,
+    Precio DECIMAL(10,2) NOT NULL,
+    Stock INT NOT NULL
+);
+GO

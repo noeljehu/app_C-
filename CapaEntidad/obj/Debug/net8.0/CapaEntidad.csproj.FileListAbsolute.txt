@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.deps.json
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.runtimeconfig.json
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.dll
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.genruntimeconfig.cache
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll
