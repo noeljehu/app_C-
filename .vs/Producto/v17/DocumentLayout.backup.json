@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\producto\\producto\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\producto\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\producto\\producto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\producto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -143,8 +143,7 @@
               "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmDashboard.cs [Dise\u00F1o]",
               "RelativeToolTip": "Producto\\FrmDashboard.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T03:20:42.897Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-02-11T03:20:42.897Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "Producto\\FrmDashboard.Designer.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAhwEYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T03:12:45.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T03:12:45.39Z"
             },
             {
               "$type": "Document",
@@ -168,8 +166,7 @@
               "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Producto\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T22:58:54.851Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-02-05T22:58:54.851Z"
             },
             {
               "$type": "Document",
@@ -181,8 +178,7 @@
               "RelativeToolTip": "Producto\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T22:05:59.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T22:05:59.174Z"
             },
             {
               "$type": "Document",
@@ -194,8 +190,7 @@
               "RelativeToolTip": "Producto\\FrmDashboard.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T03:14:43.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T03:14:43.777Z"
             },
             {
               "$type": "Document",
@@ -207,8 +202,7 @@
               "RelativeToolTip": "Producto\\Form1.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwNoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T03:07:25.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T03:07:25.917Z"
             },
             {
               "$type": "Document",
@@ -220,8 +214,7 @@
               "RelativeToolTip": "Producto\\Form1.cs",
               "ViewState": "AgIAAH0AAAAAAAAAAAAwwLUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:49:28.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T21:49:28.154Z"
             },
             {
               "$type": "Document",
@@ -233,8 +226,7 @@
               "RelativeToolTip": "CapaDatos\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:52:20.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T21:52:20.299Z"
             },
             {
               "$type": "Document",
@@ -246,8 +238,7 @@
               "RelativeToolTip": "CapaNegocio\\Personaservice.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T02:29:02.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T02:29:02.816Z"
             },
             {
               "$type": "Document",
@@ -259,8 +250,7 @@
               "RelativeToolTip": "CapaNegocio\\ProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:27:09.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T21:27:09.885Z"
             },
             {
               "$type": "Document",
@@ -272,8 +262,7 @@
               "RelativeToolTip": "CapaEntidad\\Modelos\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T02:28:12.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T02:28:12.093Z"
             },
             {
               "$type": "Document",
@@ -285,8 +274,7 @@
               "RelativeToolTip": "CapaEntidad\\Modelos\\AppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T22:05:40.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T22:05:40.943Z"
             },
             {
               "$type": "Document",
@@ -298,8 +286,7 @@
               "RelativeToolTip": "CapaEntidad\\Modelos\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:34:25.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T21:34:25.584Z"
             },
             {
               "$type": "Document",
@@ -311,8 +298,7 @@
               "RelativeToolTip": "Producto\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-05T21:34:55.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T21:34:55.295Z"
             },
             {
               "$type": "Document",

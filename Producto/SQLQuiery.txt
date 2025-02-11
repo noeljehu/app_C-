@@ -12,3 +12,12 @@ CREATE TABLE Producto1 (
     Stock INT NOT NULL
 );
 GO
+
+CREATE TABLE Persona (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Apellido NVARCHAR(100) NOT NULL,
+    Edad INT CHECK (Edad >= 0), 
+    CorreoElectronico NVARCHAR(255) UNIQUE
+);
+GO

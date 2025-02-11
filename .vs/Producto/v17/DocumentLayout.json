@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\producto\\producto\\sqlquiery.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\sqlquiery.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\producto\\producto\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -71,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\producto\\producto\\sqlquiery.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\sqlquiery.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\producto\\producto\\sqlquiery.txt||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{7DBEFA2D-0221-4B13-B005-3F7C62517ED4}|Producto\\CapaPresentacion.csproj|solutionrelative:producto\\sqlquiery.txt||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,20 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmPersonas.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.Designer.cs",
-              "RelativeDocumentMoniker": "Producto\\FrmPersonas.Designer.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.Designer.cs",
-              "RelativeToolTip": "Producto\\FrmPersonas.Designer.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAK8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T04:05:41.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmPersonas.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.cs",
               "RelativeDocumentMoniker": "Producto\\FrmPersonas.cs",
@@ -124,19 +111,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmPersonas.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "FrmPersonas.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.cs",
               "RelativeDocumentMoniker": "Producto\\FrmPersonas.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Producto\\FrmPersonas.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.cs [Design]",
+              "RelativeToolTip": "Producto\\FrmPersonas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T04:04:58.973Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmDashboard.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmDashboard.cs",
               "RelativeDocumentMoniker": "Producto\\FrmDashboard.cs",
@@ -147,7 +134,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "SQLQuiery.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\SQLQuiery.txt",
+              "RelativeDocumentMoniker": "Producto\\SQLQuiery.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\SQLQuiery.txt",
+              "RelativeToolTip": "Producto\\SQLQuiery.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-05T22:31:15.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPersonas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.Designer.cs",
+              "RelativeDocumentMoniker": "Producto\\FrmPersonas.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmPersonas.Designer.cs",
+              "RelativeToolTip": "Producto\\FrmPersonas.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAK8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:05:41.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FrmDashboard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmDashboard.Designer.cs",
               "RelativeDocumentMoniker": "Producto\\FrmDashboard.Designer.cs",
@@ -159,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\Form1.cs",
               "RelativeDocumentMoniker": "Producto\\Form1.cs",
@@ -170,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\Program.cs",
               "RelativeDocumentMoniker": "Producto\\Program.cs",
@@ -182,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmDashboard.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\FrmDashboard.cs",
               "RelativeDocumentMoniker": "Producto\\FrmDashboard.cs",
@@ -194,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Producto\\Form1.Designer.cs",
@@ -206,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\Form1.cs",
               "RelativeDocumentMoniker": "Producto\\Form1.cs",
@@ -218,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\CapaDatos\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CapaDatos\\AppDbContext.cs",
@@ -230,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Personaservice.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\CapaNegocio\\Personaservice.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\Personaservice.cs",
@@ -242,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ProductoService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\CapaNegocio\\ProductoService.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\ProductoService.cs",
@@ -254,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\CapaEntidad\\Modelos\\Persona.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Modelos\\Persona.cs",
@@ -266,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AppContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\CapaEntidad\\Modelos\\AppContext.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Modelos\\AppContext.cs",
@@ -278,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\CapaEntidad\\Modelos\\Producto.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Modelos\\Producto.cs",
@@ -290,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\appsettings.json",
               "RelativeDocumentMoniker": "Producto\\appsettings.json",
@@ -299,18 +311,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-05T21:34:55.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SQLQuiery.txt",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\SQLQuiery.txt",
-              "RelativeDocumentMoniker": "Producto\\SQLQuiery.txt",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Producto\\Producto\\SQLQuiery.txt",
-              "RelativeToolTip": "Producto\\SQLQuiery.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-05T22:31:15.729Z"
             },
             {
               "$type": "Document",
