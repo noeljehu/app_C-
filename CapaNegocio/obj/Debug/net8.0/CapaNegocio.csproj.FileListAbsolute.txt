@@ -17,3 +17,4 @@ C:\Users\HP\Desktop\6to\Martes\Producto\CapaNegocio\bin\Debug\net8.0\CapaEntidad
 C:\Users\HP\Desktop\6to\Martes\Producto\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
 C:\Users\HP\Desktop\6to\Martes\Producto\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
 C:\Users\HP\Desktop\6to\Martes\Producto\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaNegocio\obj\Debug\net8.0\CapaNegocio.sourcelink.json

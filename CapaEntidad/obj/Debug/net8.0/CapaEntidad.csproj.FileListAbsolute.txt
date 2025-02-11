@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\refint\Capa
 C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
 C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.genruntimeconfig.cache
 C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll
+C:\Users\HP\Desktop\6to\Martes\Producto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.sourcelink.json

@@ -152,3 +152,6 @@ C:\Users\HP\Desktop\6to\Martes\Producto\Producto\bin\Debug\net8.0-windows\CapaEn
 C:\Users\HP\Desktop\6to\Martes\Producto\Producto\bin\Debug\net8.0-windows\CapaNegocio.pdb
 C:\Users\HP\Desktop\6to\Martes\Producto\Producto\bin\Debug\net8.0-windows\CapaDatos.pdb
 C:\Users\HP\Desktop\6to\Martes\Producto\Producto\obj\Debug\net8.0-windows\CapaPresentacion.Form1.resources
+C:\Users\HP\Desktop\6to\Martes\Producto\Producto\obj\Debug\net8.0-windows\CapaPresentacion.sourcelink.json
+C:\Users\HP\Desktop\6to\Martes\Producto\Producto\obj\Debug\net8.0-windows\CapaPresentacion.FrmPersonas.resources
+C:\Users\HP\Desktop\6to\Martes\Producto\Producto\obj\Debug\net8.0-windows\CapaPresentacion.FrmDashboard.resources

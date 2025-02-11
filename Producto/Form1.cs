@@ -171,5 +171,12 @@ namespace CapaPresentacion
         {
             MessageBox.Show(mensaje, "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmPersonas frmPersonas = new FrmPersonas();
+            frmPersonas.Show();
+            this.Hide(); // Oculta la ventana actual
+        }
     }
 }

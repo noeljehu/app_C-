@@ -5,7 +5,8 @@ namespace CapaDatos
 {
     public class AppDbContext : DbContext
     {
-        public DbSet<Producto1> Producto1 { get; set; } 
+        public DbSet<Producto1> Producto1 { get; set; }
+        public DbSet<Persona> Persona { get; set; }
 
         public AppDbContext() { }
 
